@@ -1,0 +1,10 @@
+
+
+Start
+Sweet = a
+Price = p
+Budget = m
+As long as (a x p) < m
+           (a x p) = (a + 1) x p
+           End as long as
+           return a 
