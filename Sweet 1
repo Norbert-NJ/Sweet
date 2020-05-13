@@ -1,10 +1,13 @@
-
+Es soll überprüft werden wieviele Sweets bei einem bestimmten Budget zu einem bestimmten Preis gekauft werden können 
 
 Start
 Anzahl Sweet = a
 Price = p
 Budget = m
+a = 1
+p = 1.14
+m = 12.47
 As long as (a x p) < m
            (a x p) = (a + 1) x p
            End as long as
-           return a 
+           return int a 
